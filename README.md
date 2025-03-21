@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://ibb.co/GfjZmXtQ">
- <source media="(prefers-color-scheme: light)" srcset="https://ibb.co/GfjZmXtQ">
- <img alt="YOUR-ALT-TEXT" src="https://ibb.co/GfjZmXtQ">
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/wTGmV8YW/ethernet-1.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/wTGmV8YW/ethernet-1.png">
+ <img alt="YOUR-ALT-TEXT" src="https://i.postimg.cc/wTGmV8YW/ethernet-1.png">
 </picture>
 
 
