@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/wTGmV8YW/ethernet-1.png">
- <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/wTGmV8YW/ethernet-1.png">
- <img alt="YOUR-ALT-TEXT" src="https://i.postimg.cc/wTGmV8YW/ethernet-1.png">
-</picture>
-
-
 <!--
 **ggrit/ggrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
